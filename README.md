@@ -1,5 +1,6 @@
 ## Hello! i'm Pedro Lucas
 - 👾 Full-Stack student
+- 🎮 Aspiring to be a GameDev
 - 🤖 I’m currently learning C# for GODOT
 
 <div align="center">
