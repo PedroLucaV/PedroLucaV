@@ -1,6 +1,6 @@
 ## Hello! i'm Pedro Lucas
 - 👾 Full-Stack student
-- 🤖 I’m currently learning JavaScript
+- 🤖 I’m currently learning C# for GODOT
 
 <div align="center">
   <a href="https://github.com/PedroLucaV">
