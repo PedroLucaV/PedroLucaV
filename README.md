@@ -1,7 +1,8 @@
 ## Hello! i'm Pedro Lucas
 - 👾 Full-Stack student
 - 🎮 Aspiring to be a GameDev
-- 🤖 I’m currently learning C# for GODOT
+- 🖥️ Aspiring be an Server-Side DEV
+- 🤖 I’m currently learning NodeJS
 
 <div align="center">
   <a href="https://github.com/PedroLucaV">
