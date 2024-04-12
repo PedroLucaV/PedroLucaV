@@ -1,4 +1,5 @@
-## Hello! i'm Pedro Lucas
+# HELLO HUMANS!
+## I'm Pedro Lucas, know a bit about me:
 - 👾 Full-Stack student
 - 🎮 Aspiring to be a GameDev
 - 🖥️ Aspiring be an Server-Side DEV
