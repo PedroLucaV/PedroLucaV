@@ -9,7 +9,7 @@
   <a href="https://github.com/PedroLucaV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucav&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucaV&layout=compact&langs_count=7&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    < a href="mailto:john@example.com">John< /a>
+    <a href="mailto:izielucas2016@gmail.com">Pedro</a>
 </div>
 
 <div style="display: inline_block"><br>
