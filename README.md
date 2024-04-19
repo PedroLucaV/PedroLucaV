@@ -17,7 +17,11 @@
   <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
 
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,html,css,js" />
+  </a>
+</p>
 </div>
 
 ##
