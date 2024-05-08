@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,react,html,css,js,java,cs" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,vue,html,css,js,asp,cs" />
   </a>
 </p>
 </div>
