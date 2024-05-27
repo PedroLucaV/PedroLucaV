@@ -10,11 +10,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucaV&layout=compact&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
+## Main Skills
 <div style="display: inline_block"><br>
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,js,cs,dotnet,kotlin,ktor,mysql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,nodejs,js,cs,dotnet,mysql" />
+</p>
+</div>
+
+## Addictive Skills
+<div style="display: inline_block"><br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,ktor,vue,unity,bootstrap,visualstudio" />
 </p>
 </div>
 
