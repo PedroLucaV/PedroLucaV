@@ -10,26 +10,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucaV&layout=compact&langs_count=7&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## Main Skills
+<div align="center"><h1>Main Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,js,cs,dotnet,mysql" />
+    <img width='450px' src="https://skillicons.dev/icons?i=git,nodejs,js,cs,dotnet,mysql" />
 </p>
+  <hr>
 </div>
 
-## Addictive Skills
+<div align="center"><h1>Addictive Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=kotlin,ktor,vue,unity,bootstrap,visualstudio" />
 </p>
+  <hr>
 </div>
 
-##
-
-<div> 
-  <p align="center">
-    <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedrin_lucs06" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:izielucas2016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>  
 </div>
