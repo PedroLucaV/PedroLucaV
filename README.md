@@ -21,7 +21,7 @@
 <div align="center"><h1>Addictive Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,ktor,vue,unity,bootstrap,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vue,unity,bootstrap,visualstudio" />
 </p>
   <hr>
 </div>
