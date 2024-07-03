@@ -1,8 +1,7 @@
 # HELLO HUMANS!
 ## I'm Pedro Lucas, know a bit about myself:
-- 👾 Full-Stack student
 - 🎮 Aspiring to be a GameDev
-- 🖥️ Aspiring be an Server-Side DEV
+- 🖥️ Server-Side DEV
 - 🤖 I’m currently learning NodeJS
 
 <div align="center">
