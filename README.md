@@ -20,7 +20,7 @@
 <div align="center"><h1>Addictive Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,linux" />
+    <img src="https://skillicons.dev/icons?i=vue,linux" />
 </p>
   <hr>
 </div>
