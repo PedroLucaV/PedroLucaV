@@ -12,7 +12,7 @@
 <div align="center"><h1>Main Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
-    <img width='450px' src="https://skillicons.dev/icons?i=git,nodejs,js,mysql" />
+    <img width='400px' src="https://skillicons.dev/icons?i=git,nodejs,js,mysql,ts,prisma" />
 </p>
   <hr>
 </div>
@@ -20,7 +20,7 @@
 <div align="center"><h1>Addictive Skills</h1></div>
 <div style="display: inline_block"><br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,linux" />
+    <img src="https://skillicons.dev/icons?i=vue,linux,c,cs" />
 </p>
   <hr>
 </div>
