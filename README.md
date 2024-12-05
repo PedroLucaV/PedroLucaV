@@ -1,7 +1,7 @@
 # HELLO HUMANS!
 ## I'm Pedro Lucas, know a bit about myself:
 - 🖥️ Server-Side DEV (Express - TS)
-- 🌐 Formed Full-Stack
+- 🌐 Formed Full-Stack (React + Express)
 - 🤖 I’m currently learning C#
 
 <div align="center">
