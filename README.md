@@ -14,12 +14,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucav&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+## 🛠️ Main Skills
 <br>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,react,typescript,express,mysql,postgresql,prisma,php,css,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,express,mysql,php,styledcomponents" />
+  </a>
+</p>
+
+
+## 🔧 Additional Skills
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,prisma" />
   </a>
 </p>
 
@@ -27,10 +35,8 @@
 
 <div align="center"> 
   </br>
-
-  <a href = "mailto:pedro0710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-
+   
 <p align="center"> 
-  Visitor count<br/>
+  Visitor count<br/><br/>
   <img src="https://profile-counter.glitch.me/pedrolucav/count.svg" />
 </p>
