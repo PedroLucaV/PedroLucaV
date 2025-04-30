@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,prisma,c" />
+    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java" />
   </a>
 </p>
 
