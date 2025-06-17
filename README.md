@@ -3,7 +3,7 @@
 - 🇧🇷 WorldSkills Brazil National Competitor 2025 - SENAI, AL
 - 🖥️ Full-Stack Developer
 - 👾 I’m currently learning <strong>PHP</strong> .
-- 🔎 Graduating in Software Engineering.
+- 🔎 Graduating in Information Systems.
    </br>
 
 
@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,express,mysql,php,styledcomponents,vue" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,express,mysql,php,bootstrap,vue" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java" />
+    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux" />
   </a>
 </p>
 
