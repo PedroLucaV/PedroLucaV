@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,express,mysql,php,bootstrap,laravel,vue" />
+    <img src="https://skillicons.dev/icons?i=typescript,express,mysql,php,bootstrap,laravel,vue" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux" />
+    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux,react" />
   </a>
 </p>
 
