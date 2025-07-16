@@ -30,13 +30,3 @@
     <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux,react" />
   </a>
 </p>
-
-##
-
-<div align="center"> 
-  </br>
-   
-<p align="center"> 
-  Visitor count<br/><br/>
-  <img src="https://profile-counter.glitch.me/pedrolucav/count.svg" />
-</p>
