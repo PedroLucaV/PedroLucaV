@@ -27,6 +27,6 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux,react" />
+    <img src="https://skillicons.dev/icons?i=git,prisma,c,python,java,linux,react,csharp" />
   </a>
 </p>
