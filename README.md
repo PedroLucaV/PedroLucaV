@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Pedro+Lucas!;Hello,+i'm+Pedro+Lucas!)](https://git.io/typing-svg)
 
 - 🇧🇷 WorldSkills Brazil National Competitor 2025 - SENAI, AL
-- 🖥️ Full-Stack Developer
-- 👾 I’m currently learning <strong>PHP</strong> .
+- 🖥️ Back-End Developer
+- 👾 I’m currently learning <strong>Python</strong> .
 - 🔎 Graduating in Information Systems.
    </br>
 
