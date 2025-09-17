@@ -2,7 +2,7 @@
 
 - 🇧🇷 WorldSkills Brazil National Competitor 2025 - SENAI, AL
 - 🖥️ Back-End Developer
-- 👾 I’m currently learning <strong>Python</strong> .
+- 👾 I’m currently learning <strong>C#</strong> .
 - 🔎 Graduating in Information Systems.
    </br>
 
