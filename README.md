@@ -18,7 +18,7 @@
 ## 🚀 Currently Learning  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,java" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,java,spring" />
 </div>
 
 ---
