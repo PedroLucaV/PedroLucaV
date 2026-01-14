@@ -18,7 +18,7 @@
 ## 🚀 Currently Learning  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,java,spring" />
+  <img src="https://skillicons.dev/icons?i=go,nginx,redis" />
 </div>
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠️ Main Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,express,mysql,php,laravel,postgresql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,docker" />
 </div>
 
 ---
